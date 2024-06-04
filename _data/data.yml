@@ -4,29 +4,29 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+     name: Mark Severson
+    tagline: Systems Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mgseverson@objectiveintel.com
+    phone: 407-479-8231
+    timezone: America/New_York Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: resume.0x420.com #do not add http://
+    linkedin: MarkSeverson-ObjectiveIntel
+    # xing: alandoe
+    github: krongi
+    telegram: Th3Alch3m1st # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: krongi
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -36,230 +36,323 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Pyrotechnics
+        #link:
 
-        - item: Snowboarding
-          link:
+      - item: Penetration Testing/Security Audit
+        #link:
+      
+      - item: Scripting and Coding
 
-        - item: Cooking
-          link:
+      - item: 3d Printing and Design
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      My career in technology goes as far back as I can remember. I have always enjoyed all things tech. This enjoyment eventually led me to earning small amounts of money doing things like 
+      reinstalling OS, troubleshooting applications and hardware and working around limitations. Eventually this would lead me to college to acquire more formal training.
+      During my career I have set out to learn as much as I could through many different resources from formal training to Youtube and self teaching with books, manuals and experimentation
+# education:
+#     title: Education
+#     info:
+#       - degree: MSc in Computer Science
+#         university: University of London
+#         time: 2011 - 2012
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - degree: BSc in Applied Mathematics
+#         university: Bristol University
+#         time: 2007 - 2011
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Systems Engineer
+      time: 2021 - Present
+      company: Objective Intel, Winter Park FL
+      details: |
+        All around Technology Consultant and Service Provider.
+        - General Activities/Responsibilities
+            - Answer support phone calls and emails
+            - Travel to client sites to discuss options for tech needs
+            - Configure/Deploy/Maintain
+              - Firewalls
+              - VPN
+              - Active Directory
+              - GPO
+              - Microsoft 365
+              - Virtualization (VMWare, Hyper-V, Proxmox)
+              - Network changes
+              - Pentests/Security scans using tools in the Kali distro
+              - Camera/Security Systems
+              - Wireless Networks
+              - Diagnose and fix equipment (Appliances, machines, computers)
+            - Standard break fix of client hardware
+            - Source parts for custom build servers per client requests
+            - Creation of custom electronic devices for clients on request
+            - Custom code/web development for niche clients
+            - RF Scanning/Location of unauthorized devices
+            - Troubleshoot and replace electronic components on PCBs 
+            - Vulnerability assessments and mitigation
+            - Hardware sourcing
+            - Backups
+            - Reporting
+            - Custom designed 3D prints
+            - Generative AI and Prompt Engineering
+            - Custom python/JS apps
+        - Accomplishments
+            - Created several scripts and hardware devices, some of which I can discuss/share
+            - Save clients money by objectively looking at what they have VS what they need
+            - Regularly recover data that was 'lost'
+    - role: Systems Engineer/Technology Consultant
+      time: 2019 - 2021
+      company: Starnes Consulting, Orlando FL
+      details: |
+        Technology/Security Consultant
+        - General Activities/Responsibilities
+          - Answer support phone calls and emails
+          - Travel to client sites to discuss options for client tech needs
+          - Configure/Deploy/Maintain
+            - Firewalls
+            - VPN
+            - Active Directory
+            - GPO
+            - Microsoft 365
+            - Virtualization (VMWare, Hyper-V, Proxmox)
+            - Network changes
+            - Pentests/Security scans
+          - Standard break fix of client hardware
+          - Source parts for custom build servers per client requests
+        - Accomplishments
+          - Web form to onboard clients properly which included checklists and exported all values required to a spreadsheet (didn't get time to convert to proper database)
+    - role: Systems Administrator
+      time: 2020 - 2021
+      company: Atlantic.net, Orlando FL
+      details: |
+        Hired on as a Systems Admin but large portion of tasks were more Helpdesk related
+        - General Activities/Responsibilities
+          - Answer support phone calls and emails
+          - Verify incoming registrations for possible abuse
+          - Create/Modify pfSense firewall rules
+          - Configure site-to-site VPN for clients
+          - Greet and authenticate in person clients.
+          - Source parts for custom build servers per client requests
+          - Deploy virtual servers using Jenkins
+          - Physical walkthrough of facility to ensure everything is working as expected. 
+        - Accomplishments
+          - Fixed pfSense/Suricata deployment as a side project. Jenkins tasks would fail. Was able to use knowledge of docker to troubleshoot and fix the issue
+    - role: Systems Engineer
+      time: 2017 - 2019
+      company: Unbreakable IT, Orlando FL
+      details: |
+        Brought on as an MSP engineer, company was very interested in Powershell scripting. 
+        - General Activities/Responsibilities
+          - Support end users of numerous clients of varying sizes, geographic locations and Professions/LOB
+          - Adding and removal of users in Active Directory, Exchange and numerous other Applications/Servers (LOB/Client dependent)
+          - Verifying Veeam backups.
+          - Provisioning new servers (bare metal and virtualized (Hyper-V, VMWare)
+          - Monitoring health and usage of core servers (Windows Server 2008 - 2019, Ubuntu, CentOS, Debian)
+          - Reviewing Event Viewer and syslog regarding any security, software or hardware abnormalities
+          - Patch/Update review and deployment with WSUS, SCCM and manually
+          - Monitor Hyper-V, VMWare hosts and guest VMs
+          - Create/Modify/Monitor Docker containers
+          - Physical and remote server maintenance tasks using iDRAC, iLO, IPMI
+          - Dell SAN Storage administration
+          - Adding/Removing/Modifying Users/Groups Office/Microsoft 365/Azure AD
+          - Order hardware/equipment and software for clients 
+          - Create/Modify GPOs with emphasis on security
+          - Permission/Group membership audits
+          - Perform network/port scans for unknown devices and possible in house vulnerabilities
+          - Create/Edit powershell scripts to automate tasks
+          - Create/Modify rules on client Fortigate, Sonicwall and pfSense firewalls
+          - Advanced network configuration including VPN, MAC Filtering, VLAN tagging and Content Filtering
+        - Accomplishments
+          - Resurrecting Connectwise Automate which wasn't reporting or deploying patches or other applictaions. 
+          - This position required me to look at the back end of some pretty complex applications due to the horrible turn around time for support
+    - role: Systems Administrator
+      time: 2012 - 2016
+      company: Automotive Service Network, Winter Park, FL
+      details: |
+        Was initially brought on as desktop support. Within 3 months, the current system admin left and the CFO was confident to have me take his place. 
+        - General activities/responsibilites
+          - Adding and removal of users in Active Directory, Exchange, and Cisco UCM
+          - Verifying Backup Exec and later Veeam backups.
+          - Provisioning new servers (bare metal and virtualized (Hyper-V)
+          - Monitoring health and usage of core servers
+          - Reviewing Event Viewer logs regarding any security, software or hardware abnormalities
+          - Patch/Update review and deployment with SCCM
+          - Monitor Hyper-V hosts and guest VMs
+          - Physical and remote server maintenance tasks using iDRAC
+          - Dell SAN Storage administration
+          - Order 'tech' related hardware/equipment and software
+          - Create/Modify GPOs with emphasis on security
+          - Permission/Group membership audits
+          - Perform network/port scans for unknown devices and possible in house vulnerabilities
+        - Accomplishments
+          - Created powershell script that would save a minimum of 28 clicks per user when deactivation/removal was needed. 
+          - Created a single Windows 7 wim image to deploy to over 400 machines in the organization. This was updated periodically usind DISM
+          - Migration of Exchange 2007 to 2010 after DB failure of our C level executives. Migration completed. 48 hours of no sleep, and ESEUtil shows no progress...
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CV Builder
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at.
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some of the various projects I've worked on or am working on. Many relating to technology and some that don't
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gangland Takeover (In Progress)
+        #link: "#hook"
+        tagline: "HTML5 game based on the Phaser 3 framework. This is still very much a work in progress and I'm the only member of the team"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Zombie Mouse (Completed)
+        #link: "#"
+        tagline: "Hardware for keeping your computer from timing out"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SMS Bomber (Completed)
+        #link: "#"
+        tagline: "A tool built in Tasker for Android to send SMS repeatedly to a target"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: PolyTank Water Change System (In Progress)
+        #link: "#"
+        tagline: "A single pump system that can empty and refil 3 fish tanks with almost no human interaction."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+    
+      - name: Active Directory
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: VMWare
+        level: 80%
+     
+      - name: Microsoft Hyper-V
+        level: 70%
+     
+      - name: pfSense
+        level: 65%
+
+      - name: Microsoft Exchange
+        level: 65%
+
+      - name: Fortigate
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Generative AI/Prompt Engineering
+        level: 55%  
+      
+      - name: bash
+        level: 75%
+        
+      - name: Powershell
+        level: 85%
+
+      - name: HTML5 & CSS
+        level: 50%
+        
+      - name: Python
+        level: 60%
+
+      - name: Javascript
+        level: 45%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
