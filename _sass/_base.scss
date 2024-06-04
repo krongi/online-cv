@@ -1,8 +1,8 @@
 /* ======= Base ======= */
 body {
   font-family: "Roboto", sans-serif;
-  color: $text-color-secondary;
-  background: $smoky-white;
+  color: #ffffff;
+  background: #000000;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
@@ -36,7 +36,6 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
@@ -45,7 +44,7 @@ p {
 
 .sidebar-wrapper {
   grid-column: span 3;
-  order: $sidebar-order;
+  order: 2;
   background: $theme-color;
   color: #fff;
   a {
@@ -161,8 +160,7 @@ p {
 
 .main-wrapper {
   grid-column: span 7;
-  order: $resume-order;
-  background: #fff;
+  background: black;
   padding: 60px;
   .section-title {
     text-transform: uppercase;
@@ -177,40 +175,33 @@ p {
     margin-bottom: 60px;
   }
 
-  .experiences-section,
+  .experience-section,
   .educations-section {
     .item {
       margin-bottom: 30px;
     }
   }
-  .upper-row,
-  .second-upper-row {
+  .upper-row {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
-    display: flex;
   }
   .job-title,
-  .degree,
-  .cert-title{
+  .degree {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
-    flex: 75%;
   }
-  .time,
-  .cert-url {
+  .time {
     position: absolute;
     right: 0;
     top: 0;
     color: $text-grey;
-    flex: 25%;
   }
   .company,
-  .university,
-  .cert-org {
+  .university {
     margin-bottom: 10px;
     color: $text-grey;
   }
@@ -284,4 +275,3 @@ p {
     color: $heart;
   }
 }
-
