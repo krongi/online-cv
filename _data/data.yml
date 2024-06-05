@@ -15,26 +15,15 @@ sidebar:
     # Sidebar links
     email: mgseverson@objectiveintel.com
     phone: 407-479-8231
-    #citizenship: 
     website: resume.0x420.com #do not add http://
     linkedin: MarkSeverson-ObjectiveIntel
-    #xing: alandoe
     github: krongi
     telegram: Th3Alch3m1st # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: krongi
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
-
+    
     languages:
       - idiom: English
         level: Native
-
-#      - idiom: French
-#        level: Professional
 
       - idiom: Spanish
         level: Beginner
@@ -50,8 +39,6 @@ sidebar:
 
       - item: 3d Printing and Design
 
-      # - item: Drone Photography/Videography
-      #   link: https://markabove.us
 
 career-profile:
     title: Career Profile
@@ -359,5 +346,5 @@ skills:
       - name: Javascript
         level: 45%
 
-footer: >
+# footer: >
 #     Powered by Jekyll and Drive
