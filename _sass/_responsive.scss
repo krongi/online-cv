@@ -2,11 +2,13 @@
 @media (max-width: 767px) {
   body {
     padding: 0;
+    height: 200vh;
   }
 
   .sidebar-wrapper {
     position: static;
     width: inherit;
+    height: min-content;
   }
 
   .wrapper {
@@ -15,6 +17,7 @@
 
   .main-wrapper {
     padding: 30px;
+    height: min-content;
   }
 
   .main-wrapper .time {
