@@ -21,23 +21,23 @@ sidebar:
     telegram: Th3Alch3m1st # add your nickname without '@' sign
     codewars: krongi
     
-    languages:
-      - idiom: English
-        level: Native
+    # languages:
+      # - idiom: English
+      #   level: Native
 
-      - idiom: Spanish
-        level: Beginner
+      # - idiom: Spanish
+      #   level: Beginner
 
-    interests:
-      - item: Pyrotechnics
-        #link:
+    # interests:
+    #   - item: Pyrotechnics
+    #     #link:
 
-      - item: Penetration Testing/Security Audit
-        #link:
+    #   - item: Penetration Testing/Security Audit
+    #     #link:
       
-      - item: Scripting and Coding
+    #   - item: Scripting and Coding
 
-      - item: 3d Printing and Design
+    #   - item: 3d Printing and Design
 
 
 career-profile:
