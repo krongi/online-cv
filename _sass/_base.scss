@@ -47,7 +47,8 @@ p {
 
 .sidebar-wrapper {
   grid-column: span 3;
-  max-height: 90%;
+  max-height: 75%;
+  overflow-y: scroll;
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
@@ -164,7 +165,7 @@ p {
 
 .main-wrapper {
   grid-column: span 7;
-  max-height: 90%;
+  max-height: 75%;
   overflow-y: scroll;
   order: $resume-order;
   background: #fff;
