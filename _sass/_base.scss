@@ -48,7 +48,7 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   max-height: 75vh;
-  overflow-y: scroll;
+  // overflow-y: scroll;
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
