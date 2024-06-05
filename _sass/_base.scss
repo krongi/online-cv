@@ -38,6 +38,7 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
+  max-height: 90%;
   background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
