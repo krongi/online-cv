@@ -37,6 +37,7 @@ p {
 }
 
 .wrapper {
+  border-radius: 20%;
   display: grid;
   grid-template-columns: repeat(10, 1fr);
   height: 100%;
@@ -54,7 +55,7 @@ p {
   overflow-y: scroll;
   scrollbar-width: thin;
   order: $sidebar-order;
-  border-radius: 15px;
+  // border-radius: 15px;
   background: $theme-color;
   color: #fff;
   a {
@@ -171,7 +172,7 @@ p {
 .main-wrapper {
   grid-column: span 7;
   height: 100%;
-  border-radius: 15px;
+  // border-radius: 15px;
   overflow-y: scroll;
   scrollbar-width: thin;
   order: $resume-order;
