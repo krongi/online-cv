@@ -43,7 +43,7 @@ p {
   height: 100%;
   overflow: hidden;
   background: $theme-color;
-  max-width: 1000px;
+  max-width: 80%;
   margin: 0 auto;
   // position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
