@@ -6,7 +6,7 @@ body {
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
-  padding: 8px;
+  padding: 20px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -38,12 +38,12 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  height: 85%;
+  height: 95%;
   overflow: hidden;
   background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
-  position: relative;
+  // position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
