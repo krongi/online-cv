@@ -2,7 +2,7 @@
 @media (max-width: 767px) {
   body {
     padding: 0;
-    height: 200vh;
+    max-height: 200vh;
   }
 
   .sidebar-wrapper {
@@ -13,6 +13,7 @@
 
   .wrapper {
     display: block;
+    height: 100%;
   }
 
   .main-wrapper {
