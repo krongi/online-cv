@@ -38,7 +38,7 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  max-height: 92%;
+  height: 92%;
   background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
@@ -48,7 +48,7 @@ p {
 
 .sidebar-wrapper {
   grid-column: span 3;
-  max-height: 88%;
+  height: 88%;
   // overflow-y: scroll;
   order: $sidebar-order;
   background: $theme-color;
