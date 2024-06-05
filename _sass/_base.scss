@@ -161,6 +161,8 @@ p {
 
 .main-wrapper {
   grid-column: span 7;
+  height: 90%;
+  overflow-y: scroll;
   order: $resume-order;
   background: #fff;
   padding: 60px;
