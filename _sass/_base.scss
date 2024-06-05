@@ -50,7 +50,8 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   height: 100%;
-  // overflow-y: scroll;
+  overflow-y: scroll;
+  scrollbar-width: thin;
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
@@ -169,6 +170,7 @@ p {
   grid-column: span 7;
   height: 100%;
   overflow-y: scroll;
+  scrollbar-width: thin;
   order: $resume-order;
   background: #fff;
   padding: 60px;
