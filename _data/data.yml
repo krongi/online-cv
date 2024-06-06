@@ -43,7 +43,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have a lifelong passion for technology, which has driven my career from its earliest stages. My journey began with small projects like reinstalling operating systems, troubleshooting applications and hardware, and overcoming technical limitations. This enthusiasm led me to pursue formal training in college. Throughout my career, I have continuously sought to expand my knowledge through diverse resources, including formal education, online tutorials, books, manuals, and hands-on experimentation. I am committed to staying current with industry trends and technologies, always eager to learn and grow.
+      I have a lifelong passion for technology, which has driven my career 
+      from its earliest stages. My journey began with small projects like 
+      reinstalling operating systems, troubleshooting applications and 
+      hardware, and overcoming technical limitations. This enthusiasm led 
+      me to pursue formal training in college. Throughout my career, I 
+      have continuously sought to expand my knowledge through diverse 
+      resources, including formal education, online tutorials, books, 
+      manuals, and hands-on experimentation. I am committed to staying 
+      current with industry trends and technologies, always eager to 
+      learn and grow.
 #education:
 #    - degree: Information Technology
 #      university: Valencia College  
