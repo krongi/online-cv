@@ -43,7 +43,7 @@ p {
   height: 100%;
   overflow: hidden;
   background: $theme-color;
-  max-width: 1000px;
+  max-width: 80%;
   margin: 0 auto;
   // position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
@@ -52,8 +52,8 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   height: 100%;
-  overflow-y: scroll;
-  scrollbar-width: thin;
+  // overflow-y: scroll;
+  // scrollbar-width: thin;
   order: $sidebar-order;
   // border-radius: 15px;
   background: $theme-color;
@@ -186,7 +186,7 @@ p {
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 10;
-    margin-bottom: 20px;
+    // margin-bottom: 20px;
   }
   .section {
     margin-bottom: 60px;
