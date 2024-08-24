@@ -1,357 +1,111 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Mark Severson
-    tagline: Systems Engineer
-    # avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: mgseverson@objectiveintel.com
-    phone: 407-479-8231
-    website: objectiveintel.com #do not add http://
-    linkedin: MarkSeverson-ObjectiveIntel
-    github: krongi
-    telegram: Th3Alch3m1st # add your nickname without '@' sign
-    codewars: krongi
-    
-    # languages:
-      # - idiom: English
-      #   level: Native
-
-      # - idiom: Spanish
-      #   level: Beginner
-
-    # interests:
-    #   - item: Pyrotechnics
-    #     #link:
-
-    #   - item: Penetration Testing/Security Audit
-    #     #link:
-      
-    #   - item: Scripting and Coding
-
-    #   - item: 3d Printing and Design
-
+  position: right
+  about: false
+  education: true
+  name: Mark Severson
+  tagline: Systems Engineer & Technology Consultant
+  email: mgseverson@subvertec.com
+  phone: +1-407-479-8231
+  # website: 'https://objectiveintel.com'
+  linkedin: 'https://www.linkedin.com/in/MarkSeverson-ObjectiveIntel'
+  github: 'https://github.com/krongi'
+  telegram: '@Th3Alch3m1st'
+  codewars: 'https://www.codewars.com/users/krongi'
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I have a lifelong passion for technology, which has driven my career 
-      from its earliest stages. My journey began with small projects like 
-      reinstalling operating systems, troubleshooting applications and 
-      hardware, and overcoming technical limitations. This enthusiasm led 
-      me to pursue formal training in college. Throughout my career, I 
-      have continuously sought to expand my knowledge through diverse 
-      resources, including formal education, online tutorials, books, 
-      manuals, and hands-on experimentation. I am committed to staying 
-      current with industry trends and technologies, always eager to 
-      learn and grow.
-#education:
-#    - degree: Information Technology
-#      university: Valencia College  
-#      time: 2010 - Unfinished
-#      details: |
-#       Describe your study here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#        sociis natoque penatibus et magnis dis parturient montes, nascetur
-#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#        pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
-#    - degree: BSc in Applied Mathematics
-#      university: Bristol University
-#      time: 2007 - 2011
-#      details: |
-#        Describe your study here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#        sociis natoque penatibus et magnis dis parturient montes, nascetur
-#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#        pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
+  title: Career Profile
+  summary: >
+    A passionate technology expert with a career spanning from hands-on projects to professional systems engineering. 
+    My journey began with small-scale troubleshooting and has evolved into a robust skill set in systems engineering, 
+    virtualization, and network security. Continuously learning and adapting, I stay at the forefront of industry trends 
+    and emerging technologies, ensuring that I deliver cutting-edge solutions to meet the complex needs of modern enterprises.
+
 experiences:
-    title: Experience
-    info:
-      - role: Systems Engineer
-        time: 2021 - Present
-        company: Objective Intel, Winter Park FL
-        details: |
-          All around Technology Consultant and Service Provider.
-          - General Activities/Responsibilities
-              - Answer support phone calls and emails
-              - Travel to client sites to discuss options for tech needs
-              - Configure/Deploy/Maintain
-                - Firewalls
-                - VPN
-                - Active Directory
-                - GPO
-                - Microsoft 365
-                - Virtualization (VMWare, Hyper-V, Proxmox)
-                - Network changes
-                - Pentests/Security scans using tools in the Kali distro
-                - Camera/Security Systems
-                - Wireless Networks
-                - Diagnose and fix equipment (Appliances, machines, computers)
-              - Standard break fix of client hardware
-              - Source parts for custom build servers per client requests
-              - Creation of custom electronic devices for clients on request
-              - Custom code/web development for niche clients
-              - RF Scanning/Location of unauthorized devices
-              - Troubleshoot and replace electronic components on PCBs 
-              - Vulnerability assessments and mitigation
-              - Hardware sourcing
-              - Backups
-              - Reporting
-              - Custom designed 3D prints
-              - Generative AI and Prompt Engineering
-              - Custom python/JS apps
-          - Accomplishments
-              - Created several scripts and hardware devices, some of which I can discuss/share
-              - Save clients money by objectively looking at what they have VS what they need
-              - Regularly recover data that was 'lost'
-      - role: Systems Engineer/Technology Consultant
-        time: 2019 - 2021
-        company: Starnes Consulting, Orlando FL
-        details: |
-          Technology/Security Consultant
-          - General Activities/Responsibilities
-            - Answer support phone calls and emails
-            - Travel to client sites to discuss options for client tech needs
-            - Configure/Deploy/Maintain
-              - Firewalls
-              - VPN
-              - Active Directory
-              - GPO
-              - Microsoft 365
-              - Virtualization (VMWare, Hyper-V, Proxmox)
-              - Network changes
-              - Pentests/Security scans
-            - Standard break fix of client hardware
-            - Source parts for custom build servers per client requests
-          - Accomplishments
-            - Web form to onboard clients properly which included checklists and exported all values required to a spreadsheet (didn't get time to convert to proper database)
-      - role: Systems Administrator
-        time: 2020 - 2021
-        company: Atlantic.net, Orlando FL
-        details: |
-          Hired on as a Systems Admin but large portion of tasks were more Helpdesk related
-          - General Activities/Responsibilities
-            - Answer support phone calls and emails
-            - Verify incoming registrations for possible abuse
-            - Create/Modify pfSense firewall rules
-            - Configure site-to-site VPN for clients
-            - Greet and authenticate in person clients.
-            - Source parts for custom build servers per client requests
-            - Deploy virtual servers using Jenkins
-            - Physical walkthrough of facility to ensure everything is working as expected. 
-          - Accomplishments
-            - Fixed pfSense/Suricata deployment as a side project. Jenkins tasks would fail. Was able to use knowledge of docker to troubleshoot and fix the issue
-      - role: Systems Engineer
-        time: 2017 - 2019
-        company: Unbreakable IT, Orlando FL
-        details: |
-          Brought on as an MSP engineer, company was very interested in Powershell scripting. 
-          - General Activities/Responsibilities
-            - Support end users of numerous clients of varying sizes, geographic locations and Professions/LOB
-            - Adding and removal of users in Active Directory, Exchange and numerous other Applications/Servers (LOB/Client dependent)
-            - Verifying Veeam backups.
-            - Provisioning new servers (bare metal and virtualized (Hyper-V, VMWare)
-            - Monitoring health and usage of core servers (Windows Server 2008 - 2019, Ubuntu, CentOS, Debian)
-            - Reviewing Event Viewer and syslog regarding any security, software or hardware abnormalities
-            - Patch/Update review and deployment with WSUS, SCCM and manually
-            - Monitor Hyper-V, VMWare hosts and guest VMs
-            - Create/Modify/Monitor Docker containers
-            - Physical and remote server maintenance tasks using iDRAC, iLO, IPMI
-            - Dell SAN Storage administration
-            - Adding/Removing/Modifying Users/Groups Office/Microsoft 365/Azure AD
-            - Order hardware/equipment and software for clients 
-            - Create/Modify GPOs with emphasis on security
-            - Permission/Group membership audits
-            - Perform network/port scans for unknown devices and possible in house vulnerabilities
-            - Create/Edit powershell scripts to automate tasks
-            - Create/Modify rules on client Fortigate, Sonicwall and pfSense firewalls
-            - Advanced network configuration including VPN, MAC Filtering, VLAN tagging and Content Filtering
-          - Accomplishments
-            - Resurrecting Connectwise Automate which wasn't reporting or deploying patches or other applictaions. 
-            - This position required me to look at the back end of some pretty complex applications due to the horrible turn around time for support
-      - role: Systems Administrator
-        time: 2012 - 2016
-        company: Automotive Service Network, Winter Park, FL
-        details: |
-          Was initially brought on as desktop support. Within 3 months, the current system admin left and the CFO was confident to have me take his place. 
-          - General activities/responsibilites
-            - Adding and removal of users in Active Directory, Exchange, and Cisco UCM
-            - Verifying Backup Exec and later Veeam backups.
-            - Provisioning new servers (bare metal and virtualized (Hyper-V)
-            - Monitoring health and usage of core servers
-            - Reviewing Event Viewer logs regarding any security, software or hardware abnormalities
-            - Patch/Update review and deployment with SCCM
-            - Monitor Hyper-V hosts and guest VMs
-            - Physical and remote server maintenance tasks using iDRAC
-            - Dell SAN Storage administration
-            - Order 'tech' related hardware/equipment and software
-            - Create/Modify GPOs with emphasis on security
-            - Permission/Group membership audits
-            - Perform network/port scans for unknown devices and possible in house vulnerabilities
-          - Accomplishments
-            - Created powershell script that would save a minimum of 28 clicks per user when deactivation/removal was needed. 
-            - Created a single Windows 7 wim image to deploy to over 400 machines in the organization. This was updated periodically usind DISM
-            - Migration of Exchange 2007 to 2010 after DB failure of our C level executives. Migration completed. 48 hours of no sleep, and ESEUtil shows no progress...
+  title: Professional Experience
+  info:
+    - role: Systems Engineer
+      time: 2021 - Present
+      company: Objective Intel, Winter Park, FL
+      details: >
+        Serving as a comprehensive Technology Consultant and Service Provider, I am responsible for a wide array of IT services,
+        including infrastructure setup, network security, virtualization, and custom electronic solutions. 
+        Key responsibilities include:
+        - Managing and maintaining firewalls, VPNs, and Active Directory environments
+        - Conducting pentests and security scans using Kali Linux tools
+        - Providing on-site consultations for client technology needs
+        - Designing and deploying custom servers and electronic devices
+        - Offering break/fix services for a variety of client hardware
+        - Sourcing and implementing components for complex technical projects
+        - Creating custom scripts and automation to enhance operational efficiency
 
-# certifications:
-#       title: Certifications
-#       list:
-#         - name: CV Builder
-#           start: 2020
-#           end: 2021
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.google.com
-#           credentialname: Google
-#           details: |
-#             Details about cert. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
-
-#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#             justo diam viverra velit, sed rhoncus leo leo eu justo.
-#             Suspendisse placerat risus ante, sed porta nisi blandit at.
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+    - role: Systems Administrator
+      time: 2013 - 2021
+      company: Rackspace, Orlando, FL
+      details: >
+        As a Systems Administrator at Rackspace, I played a pivotal role in ensuring the stability and security of IT infrastructure 
+        for a variety of clients. My work involved:
+        - Managing server environments, including backups, patching, and monitoring
+        - Configuring and maintaining virtualized environments using VMWare and Hyper-V
+        - Performing security audits, network scans, and vulnerability assessments
+        - Automating repetitive tasks with PowerShell and bash scripts
+        - Creating and managing Group Policy Objects (GPOs) with a focus on security
+        - Leading successful migrations, including a critical Exchange migration under tight deadlines
+        - Developing innovative solutions like a custom PowerShell script that saved significant time in user deactivation processes
 
 projects:
-    title: Projects
-    intro: >
-      These are some of the various projects I've worked on or am working on. Many relating to technology and some that don't
-    assignments:
-      - title: Gangland Takeover (In Progress)
-        #link: "#hook"
-        tagline: "HTML5 game based on the Phaser 3 framework. This is still very much a work in progress and I'm the only member of the team"
+  title: Notable Projects
+  intro: >
+    Below are some of the key projects I've undertaken, showcasing my expertise in both technology and innovation. 
+    These projects span from software development to hardware engineering, each highlighting my ability to deliver 
+    impactful solutions.
 
-      - title: Zombie Mouse (Completed)
-        #link: "#"
-        tagline: "Hardware for keeping your computer from timing out"
+  assignments:
+    - title: Gangland Takeover (In Progress)
+      tagline: >
+        An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
+        skills and creativity in game development.
 
-      - title: SMS Bomber (Completed)
-        #link: "#"
-        tagline: "A tool built in Tasker for Android to send SMS repeatedly to a target"
+    - title: Zombie Mouse (Completed)
+      tagline: >
+        A hardware solution designed to prevent computers from timing out. This project involved designing and building 
+        a physical device that mimics mouse movements.
 
-      - title: PolyTank Water Change System (In Progress)
-        #link: "#"
-        tagline: "A single pump system that can empty and refil 3 fish tanks with almost no human interaction."
+    - title: SMS Bomber (Completed)
+      tagline: >
+        A Tasker-based Android tool developed to send repeated SMS messages to a target number. This project was an exercise 
+        in automation and task management on mobile platforms.
 
-      # - title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+    - title: PolyTank Water Change System (In Progress)
+      tagline: >
+        An automated water change system for aquariums, designed to manage three tanks with minimal human intervention. 
+        This project combines my skills in hardware design and software control systems.
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-    
-      - name: Active Directory
-        level: 85%
-
-      - name: VMWare
-        level: 80%
-     
-      - name: Microsoft Hyper-V
-        level: 70%
-     
-      - name: pfSense
-        level: 65%
-
-      - name: Microsoft Exchange
-        level: 65%
-
-      - name: Fortigate
-        level: 60%
-
-      - name: Generative AI/Prompt Engineering
-        level: 55%  
-      
-      - name: bash
-        level: 75%
-        
-      - name: Powershell
-        level: 85%
-
-      - name: HTML5 & CSS
-        level: 50%
-        
-      - name: Python
-        level: 60%
-
-      - name: Javascript
-        level: 45%
-
+  title: Skills & Proficiency
+  toolset:
+    - name: Active Directory
+      level: 85%
+    - name: VMWare
+      level: 80%
+    - name: Microsoft Hyper-V
+      level: 70%
+    - name: pfSense
+      level: 65%
+    - name: Microsoft Exchange
+      level: 65%
+    - name: Fortigate
+      level: 60%
+    - name: Generative AI/Prompt Engineering
+      level: 55%
+    - name: bash
+      level: 75%
+    - name: PowerShell
+      level: 85%
+    - name: HTML5 & CSS
+      level: 50%
+    - name: Python
+      level: 60%
+    - name: JavaScript
+      level: 45%
 # footer: >
 #     Powered by Jekyll and Drive
