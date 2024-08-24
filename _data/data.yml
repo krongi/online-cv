@@ -4,9 +4,9 @@ sidebar:
   education: true
   name: Mark Severson
   tagline: Systems Engineer & Technology Consultant
-  email: mgseverson@subvertec.com
+  email: mgseverson@objectiveintel.com
   phone: +1-407-479-8231
-  # website: 'https://objectiveintel.com'
+  website: 'https://objectiveintel.com'
   linkedin: 'https://www.linkedin.com/in/MarkSeverson-ObjectiveIntel'
   github: 'https://github.com/krongi'
   telegram: '@Th3Alch3m1st'
@@ -15,42 +15,77 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: >
-    A passionate technology expert with a career spanning from hands-on projects to professional systems engineering. 
-    My journey began with small-scale troubleshooting and has evolved into a robust skill set in systems engineering, 
-    virtualization, and network security. Continuously learning and adapting, I stay at the forefront of industry trends 
-    and emerging technologies, ensuring that I deliver cutting-edge solutions to meet the complex needs of modern enterprises.
+    I am a seasoned Systems Engineer with over 15 years of experience in technology, specializing in 
+    infrastructure management, network security, and IT consulting. My expertise spans across various 
+    industries, with a focus on delivering customized solutions to meet complex client needs. I am passionate 
+    about leveraging my deep technical knowledge to solve challenging problems and drive business growth.
 
 experiences:
   title: Professional Experience
   info:
     - role: Systems Engineer
-      time: 2021 - Present
+      time: Aug 2020 - Present
       company: Objective Intel, Winter Park, FL
       details: >
-        Serving as a comprehensive Technology Consultant and Service Provider, I am responsible for a wide array of IT services,
-        including infrastructure setup, network security, virtualization, and custom electronic solutions. 
-        Key responsibilities include:
-        - Managing and maintaining firewalls, VPNs, and Active Directory environments
-        - Conducting pentests and security scans using Kali Linux tools
-        - Providing on-site consultations for client technology needs
-        - Designing and deploying custom servers and electronic devices
-        - Offering break/fix services for a variety of client hardware
-        - Sourcing and implementing components for complex technical projects
-        - Creating custom scripts and automation to enhance operational efficiency
+        - Provide IT consulting services, focusing on optimizing clients' current hardware and software.
+        - Recommend upgrades, migrations, security enhancements, cloud solutions, and software integration.
+        - Conduct network scans, vulnerability assessments, and physical/virtual infrastructure upgrades.
+        - Maintain client infrastructure, perform server builds, decoms, and ensure backups.
+        - Field phone calls from users and assist remotely or in-person as needed.
 
-    - role: Systems Administrator
-      time: 2013 - 2021
-      company: Rackspace, Orlando, FL
+    - role: Systems Engineer
+      time: Apr 2019 - Present
+      company: Starnes Consulting, Orlando, FL
       details: >
-        As a Systems Administrator at Rackspace, I played a pivotal role in ensuring the stability and security of IT infrastructure 
-        for a variety of clients. My work involved:
-        - Managing server environments, including backups, patching, and monitoring
-        - Configuring and maintaining virtualized environments using VMWare and Hyper-V
-        - Performing security audits, network scans, and vulnerability assessments
-        - Automating repetitive tasks with PowerShell and bash scripts
-        - Creating and managing Group Policy Objects (GPOs) with a focus on security
-        - Leading successful migrations, including a critical Exchange migration under tight deadlines
-        - Developing innovative solutions like a custom PowerShell script that saved significant time in user deactivation processes
+        - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms.
+        - Ensure backups are completed successfully and troubleshoot hardware issues.
+        - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed.
+
+    - role: Customer Support Technician
+      time: Mar 2020 - Feb 2021
+      company: Atlantic.Net Inc., Orlando, FL
+      details: >
+        - Provided client support, handling support calls and emails.
+        - Assisted clients with firewall rule changes, system deployment, and upgrades.
+        - Resolved issues with in-house Docker stack deployments, including system pruning, error resolution, and redeployment.
+
+    - role: Systems Engineer (Contract)
+      time: Oct 2019 - Nov 2019
+      company: ThreatLocker, Orlando, FL
+      details: >
+        - Conducted external audits, network scans, and vulnerability assessments.
+        - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On.
+
+    - role: Systems Engineer
+      time: Aug 2016 - Apr 2019
+      company: UnbreakableIT, Orlando, FL
+      details: >
+        - Managed general sysadmin duties, including password resets, backups, and data recovery.
+        - Administered Connectwise Automate, Azure AD, and Office 365 environments.
+        - Managed Exchange servers for various clients, handling upgrades and migrations.
+
+    - role: System Administrator
+      time: Jan 2012 - Feb 2016
+      company: Automotive Services Network, Winter Park, FL
+      details: >
+        - Managed and maintained servers and network equipment, including Exchange, SCCM, and SQL servers.
+        - Performed virtualization using Hyper-V, managed backups with Backup Exec, and handled server migrations.
+
+    - role: Master Repair Tech
+      time: Oct 2009 - Jan 2012
+      company: Refresh Computers and Electronics, Longwood, FL
+      details: >
+        - Configured and repaired PCs, assembled computers, and performed hardware/software upgrades.
+        - Specialized in virus/spyware removal, data recovery, and OS re-installations.
+        - Repaired laptops, replaced components, and provided customer support.
+
+    - role: Cable Technician
+      time: Feb 2006 - Dec 2007
+      company: G.I. Broadband, LLC
+      details: >
+        - Installed residential and commercial cable and internet services.
+        - Diagnosed and repaired computer and internet issues, and installed coax and Cat-5 networking cables.
+        - Provided customer service, troubleshooting network connectivity and OS-related issues.
 
 projects:
   title: Notable Projects
@@ -107,5 +142,3 @@ skills:
       level: 60%
     - name: JavaScript
       level: 45%
-# footer: >
-#     Powered by Jekyll and Drive
