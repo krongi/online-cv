@@ -16,14 +16,14 @@
    }
       
    .main-wrapper {
-      overflow-y: inherit;
+      overflow-y: visible;
    }
       
    .main-wrapper .time {
-      overflow-y: inherit;
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
+      overflow-y: visible;
+      float: right;
+      color: black !important;
+      -webkit-print-color-adjust: exact; 
        
    }
     .sidebar-wrapper {
