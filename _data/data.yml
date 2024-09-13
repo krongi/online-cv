@@ -96,7 +96,6 @@ projects:
 
   assignments:
     - title: Regular Game (In Progress)
-    - title: Regular Game (In Progress)
       tagline: >
         An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
         skills and creativity in game development.
