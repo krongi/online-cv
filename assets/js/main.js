@@ -19,6 +19,3 @@ jQuery(document).ready(function($) {
     
 
 });
-if (document.URL == 'https://resume.subvertec.com/print') {
-    console.log('dick');
-};
