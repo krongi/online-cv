@@ -103,9 +103,7 @@ projects:
       
      - title: Sunbiz Detail Scraper
       tagline: >
-        A python based scraper for pulling data from sunbiz and placing into a sqlite database.
-      link: >
-        https://github.com/krongi/SunbizDetailGrabber
+        A python based scraper for pulling data from sunbiz and placing into a sqlite database. https://github.com/krongi/SunbizDetailGrabber
 
     - title: LoRa Launcher
         tagline: >
@@ -114,23 +112,16 @@ projects:
 
     - title: Spaz Mouse (Completed)
       tagline: >
-        A hardware solution designed to prevent computers from timing out. This project involved designing and building 
-        a physical device that mimics mouse movements.
-      link: > 
-        https://github.com/krongi/SpazMouse
+        A hardware solution designed to prevent computers from timing out. This project involved designing and building a physical device that mimics mouse movements.https://github.com/krongi/SpazMouse
 
+        
     - title: SMS Bomber (Completed)
       tagline: >
-        A Tasker-based Android tool developed to send repeated SMS messages to a target number. This project was an exercise 
-        in automation and task management on mobile platforms.
-      link: >
-        https://github.com/krongi/SMSBomber
+        A Tasker-based Android tool developed to send repeated SMS messages to a target number. This project was an exercis in automation and task management on mobile platforms. https://github.com/krongi/SMSBomber
 
     - title: GVClick
         tagline: >
-          An android app based on tasker to automatically and repeatedly call someone using Google Voice. Set it and forget it
-        link: >
-          https://github.com/krongi/GVClick
+          An android app based on tasker to automatically and repeatedly call someone using Google Voice. Set it and forget it. https://github.com/krongi/GVClick
           
     - title: PolyTank Water Change System (In Progress)
       tagline: >
