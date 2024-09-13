@@ -11,10 +11,14 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
+   .wrapper {
+      overflow: auto;
+   }
    .main-wrapper .time {
        float: right;
         color: black !important;
         -webkit-print-color-adjust: exact; 
+      overflow-y: auto; 
    }
     .sidebar-wrapper {
         position: static;
