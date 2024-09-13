@@ -14,11 +14,16 @@
    .wrapper {
       overflow: auto;
    }
+      
+   .main-wrapper {
+      overflow-y: auto;
+   }
+      
    .main-wrapper .time {
        float: right;
         color: black !important;
         -webkit-print-color-adjust: exact; 
-      overflow-y: auto; 
+       
    }
     .sidebar-wrapper {
         position: static;
