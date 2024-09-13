@@ -16,11 +16,11 @@
    }
       
    .main-wrapper {
-      overflow-y: visible;
+      overflow-y: auto;
    }
       
    .main-wrapper .time {
-      overflow-y: visible;
+      overflow-y: auto;
       float: right;
       color: black !important;
       -webkit-print-color-adjust: exact; 
