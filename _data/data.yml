@@ -5,9 +5,9 @@ sidebar:
   name: Mark Severson
   tagline: Systems Engineer & Technology Consultant
   email: mgseverson@subvertec.com
-  phone: +1-407-479-8231
+  phone: +1-(407) 479-8231
   # website: 'https://objectiveintel.com'
-  linkedin: 'mgseverson'
+  linkedin: 'https://linkedin.com/in/mgseverson'
   github: 'https://github.com/krongi'
   telegram: '@Th3Alch3m1st'
   codewars: 'https://www.codewars.com/users/krongi'
@@ -34,7 +34,7 @@ experiences:
         - Field phone calls from users and assist remotely or in-person as needed.
 
     - role: Systems Engineer
-      time: Apr 2019 - Present
+      time: Apr 2019 - Jun 2022
       company: Starnes Consulting, Orlando, FL
       details: >
         - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms.
@@ -95,6 +95,7 @@ projects:
     impactful solutions.
 
   assignments:
+    - title: Regular Game (In Progress)
     - title: Regular Game (In Progress)
       tagline: >
         An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
