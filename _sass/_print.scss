@@ -12,11 +12,11 @@
         -webkit-filter: greyscale(1);
     }
    .wrapper {
-      overflow: auto;
+      overflow: visible;
    }
       
    .main-wrapper {
-      overflow-y: auto;
+      overflow-y: inherit;
    }
       
    .main-wrapper .time {
