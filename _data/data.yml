@@ -28,11 +28,14 @@ experiences:
       time: Aug 2020 - Present
       company: Objective Intel, Winter Park, FL
       details: >
+        - Leverage zigbee devices for automation purposes, including lights, PIR sensors, temperature sensors, presence sensors.
+        - Planning and implementation of backups for various clients.
         - Provide IT consulting services, focusing on optimizing clients' current hardware and software.
         - Recommend upgrades, migrations, security enhancements, cloud solutions, and software integration.
         - Conduct network scans, vulnerability assessments, and physical/virtual infrastructure upgrades.
         - Maintain client infrastructure, perform server builds, decoms, and ensure backups.
         - Field phone calls from users and assist remotely or in-person as needed.
+        - Configure and deploy various network devices including wireless AP (Meraki, Unifi), switches(Meraki, Unifi) and firewalls(pfSense, Fortinet, Unifi)
 
     - role: Systems Engineer
       time: Apr 2019 - Jun 2022
@@ -42,13 +45,14 @@ experiences:
         - Ensure backups are completed successfully and troubleshoot hardware issues.
         - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed.
 
-    - role: Customer Support Technician
+    - role: SOC Support Technician
       time: Mar 2020 - Feb 2021
       company: Atlantic.Net Inc., Orlando, FL
       details: >
         - Provided client support, handling support calls and emails.
         - Assisted clients with firewall rule changes, system deployment, and upgrades.
         - Resolved issues with in-house Docker stack deployments, including system pruning, error resolution, and redeployment.
+        - Build out systems to client requirements both virtual and physical.
 
     - role: Systems Engineer (Contract)
       time: Oct 2019 - Nov 2019
