@@ -146,27 +146,23 @@ projects:
 skills:
   title: Skills & Proficiency
   toolset:
+    - name: Custom AI Model Integration & Automation
+      level: 75%
+    - name: Firewall Configuration(pfSense, Fortinet, Meraki, Unifi)
+      level: 80%
     - name: Active Directory
       level: 85%
-    - name: VMWare
+    - name: Fusions360
       level: 80%
-    - name: Microsoft Hyper-V
-      level: 70%
-    - name: pfSense
-      level: 65%
+    - name: VPN Setups (Site2Site, Client, OpenVPN, WireGuard)
+      level: 85%
+    - name: Virtualization (VMWare, Hyper-V, Proxmox)
+      level: 85%
     - name: Microsoft Exchange
       level: 65%
-    - name: Fortigate
-      level: 60%
     - name: Generative AI/Prompt Engineering
-      level: 55%
-    - name: bash
+      level: 70%
+    - name: Dev/Automation (bash, PowerShell, Python, JS)
       level: 75%
-    - name: PowerShell
-      level: 85%
     - name: HTML5 & CSS
       level: 50%
-    - name: Python
-      level: 60%
-    - name: JavaScript
-      level: 45%
