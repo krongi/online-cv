@@ -46,7 +46,6 @@ experiences:
         - Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%.
         - Conducted network audits and installed advanced security protocols, cutting downtime by 25% and increasing system stability across client networks.
         - Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows.
-
         - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms.
         - Ensure backups are completed successfully and troubleshoot hardware issues.
         - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed.
@@ -58,6 +57,7 @@ experiences:
         - Provided frontline support to clients via phone and email, resolving issues related to firewall rule changes, system deployments, and upgrades.
         - Assisted clients in both physical and virtual system builds according to specific requirements.
         - Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.
+        
     - role: Systems Engineer (Contract)
       time: Oct 2019 - Nov 2019
       company: ThreatLocker, Orlando, FL
@@ -96,14 +96,21 @@ experiences:
         - Installed residential and commercial cable and internet services, diagnosing and repairing network connectivity issues.
         - Installed coax and Cat-5 networking cables while providing top-tier customer service and troubleshooting for network and OS-related problems.
 
-projects:
-  title: Notable Projects
-  intro: >
-    Below are some of the key projects I've undertaken, showcasing my expertise in both technology and innovation. 
+    projects:
+    title: Notable Projects
+    intro: >
+      Below are some of the key projects I've undertaken, showcasing my expertise in both technology and innovation. 
     These projects span from software development to hardware engineering, each highlighting my ability to deliver 
     impactful solutions.
 
   assignments:
+    - title: Barbarian Charlemagne (In Progress)
+      tagline: >
+        An ESP32 wired and flashed to perform like a 'Bad USB'. When plugged in, it will begin doing keylogging as well as periodic screenshots. It will also store mouse coordinates 
+        when clicking the mouse and will diferentiate between a right and left click. It also hosts a webserver and creates an ad-hoc network to allow connection to the device for data exfiltration
+        or other uses. This was another project that already exists, but I don't want to pay for and I feel like I can whip something up comparable. Maybe not as stealthy, but functionally on the same
+        level
+        
     - title: Regular Game (In Progress)
       tagline: >
         An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
