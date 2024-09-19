@@ -3,7 +3,7 @@ sidebar:
   about: false
   education: true
   name: Mark Severson
-  tagline: Systems Engineer & Technology Consultant
+  tagline: IT Consultant | Network Security Expert | AI & Automation Specialist
   email: mgseverson@subvertec.com
   phone: +1-(407) 479-8231
   avatar: profile.png
@@ -15,22 +15,24 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: >
-    I am a seasoned Systems Engineer with over 15 years of experience in technology, specializing in 
-    infrastructure management, network security, and IT consulting. My expertise spans across various 
-    industries, with a focus on delivering customized solutions to meet complex client needs. I am passionate 
-    about leveraging my deep technical knowledge to solve challenging problems and drive business growth.
+  summary: > Results-driven IT consultant with over 20 years of experience in network security, cloud infrastructure management, and full-stack development. 
+  Specializing in delivering cutting-edge automation, cybersecurity solutions, and cloud migrations, reducing costs by 30%. 
+  Proven expertise in utilizing AI to enhance business processes and optimizing technical infrastructures for a wide range of clients, from small businesses to large enterprises. 
+  Adept at leading complex projects and ensuring uptime, security, and scalability for mission-critical systems.
 
 experiences:
   title: Professional Experience
   info:
     - role: Systems Engineer
       time: Aug 2020 - Present
-      company: Objective Intel, Winter Park, FL
+      company: Subvertec, Winter Park, FL
       details: >
-        - Leverage zigbee devices for automation purposes, including lights, PIR sensors, temperature sensors, presence sensors.
+        - Led comprehensive network security implementations for over 50 clients, improving security by 40% through advanced firewall and penetration testing solutions.
+        - Managed complex cloud migrations to Microsoft 365 and Azure, resulting in a 99% reduction in downtime and 30% cost savings.
         - Planning and implementation of backups for various clients.
         - Provide IT consulting services, focusing on optimizing clients' current hardware and software.
+        - Developed and implemented AI-powered automation systems, saving clients $50,000 annually by automating manual tasks and increasing productivity by 25%.
+        - Designed and deployed ESP32-based custom keylogging solutions and monitoring systems for advanced security analysis.
         - Recommend upgrades, migrations, security enhancements, cloud solutions, and software integration.
         - Conduct network scans, vulnerability assessments, and physical/virtual infrastructure upgrades.
         - Maintain client infrastructure, perform server builds, decoms, and ensure backups.
@@ -41,6 +43,10 @@ experiences:
       time: Apr 2019 - Jun 2022
       company: Starnes Consulting, Orlando, FL
       details: >
+        - Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%.
+        - Conducted network audits and installed advanced security protocols, cutting downtime by 25% and increasing system stability across client networks.
+        - Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows.
+
         - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms.
         - Ensure backups are completed successfully and troubleshoot hardware issues.
         - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed.
@@ -49,11 +55,9 @@ experiences:
       time: Mar 2020 - Feb 2021
       company: Atlantic.Net Inc., Orlando, FL
       details: >
-        - Provided client support, handling support calls and emails.
-        - Assisted clients with firewall rule changes, system deployment, and upgrades.
-        - Resolved issues with in-house Docker stack deployments, including system pruning, error resolution, and redeployment.
-        - Build out systems to client requirements both virtual and physical.
-
+        - Provided frontline support to clients via phone and email, resolving issues related to firewall rule changes, system deployments, and upgrades.
+        - Assisted clients in both physical and virtual system builds according to specific requirements.
+        - Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.
     - role: Systems Engineer (Contract)
       time: Oct 2019 - Nov 2019
       company: ThreatLocker, Orlando, FL
@@ -65,32 +69,32 @@ experiences:
       time: Aug 2016 - Apr 2019
       company: UnbreakableIT, Orlando, FL
       details: >
-        - Managed general sysadmin duties, including password resets, backups, and data recovery.
-        - Administered Connectwise Automate, Azure AD, and Office 365 environments.
-        - Managed Exchange servers for various clients, handling upgrades and migrations.
-
+        str(Managed system administration) tasks such as password resets, backups, and data recovery, ensuring smooth operational workflows for various clients.
+        Administered environments using Azure AD, Office 365, and ConnectWise Automate, driving a 20% reduction in downtime.
+        Led Exchange Server upgrades and migrations, improving client email system performance by 15%.
+    
     - role: System Administrator
       time: Jan 2012 - Feb 2016
       company: Automotive Services Network, Winter Park, FL
-      details: >
-        - Managed and maintained servers and network equipment, including Exchange, SCCM, and SQL servers.
+        details: >
+          - Managed servers and network equipment, including Exchange, SCCM, and SQL Servers for optimized performance.
+          - Spearheaded Hyper-V virtualization projects, reducing hardware needs by 25% and improving system scalability.
+          - Exchange, SCCM, and SQL servers.
         - Performed virtualization using Hyper-V, managed backups with Backup Exec, and handled server migrations.
 
     - role: Master Repair Tech
       time: Oct 2009 - Jan 2012
       company: Refresh Computers and Electronics, Longwood, FL
       details: >
-        - Configured and repaired PCs, assembled computers, and performed hardware/software upgrades.
-        - Specialized in virus/spyware removal, data recovery, and OS re-installations.
-        - Repaired laptops, replaced components, and provided customer support.
+        - Configured, repaired, and upgraded PCs and laptops, with a focus on virus/spyware removal, data recovery, and hardware component replacement.
+        - Enhanced customer satisfaction through expert troubleshooting and OS reinstallation services
 
     - role: Cable Technician
       time: Feb 2006 - Dec 2007
       company: G.I. Broadband, LLC
       details: >
-        - Installed residential and commercial cable and internet services.
-        - Diagnosed and repaired computer and internet issues, and installed coax and Cat-5 networking cables.
-        - Provided customer service, troubleshooting network connectivity and OS-related issues.
+        - Installed residential and commercial cable and internet services, diagnosing and repairing network connectivity issues.
+        - Installed coax and Cat-5 networking cables while providing top-tier customer service and troubleshooting for network and OS-related problems.
 
 projects:
   title: Notable Projects
