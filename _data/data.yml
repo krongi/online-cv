@@ -67,11 +67,11 @@ experiences:
       time: Mar 2020 - Feb 2021
       company: Atlantic.Net Inc., Orlando, FL
       details: >
+          - ## Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.
+
           - Provided frontline support to clients via phone and email, resolving issues related to firewall rule changes, system deployments, and upgrades.
           
           - Assisted clients in both physical and virtual system builds according to specific requirements.
-          
-          - Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.
           
     - role: Systems Engineer (Contract)
       time: Oct 2019 - Nov 2019
