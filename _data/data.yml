@@ -176,13 +176,13 @@ experiences:
 skills:
   title: Skills & Proficiency
   toolset:
-    - name: Custom AI Model Integration & Automation
-      level: 75%
-    - name: Firewall Configuration(pfSense, Fortinet, Meraki, Unifi)
+    - name: Generative AI/Prompt Engineering
+      level: 70%
+    - name: Firewall Configuration (pfSense, Fortinet, Unifi)
       level: 80%
     - name: Active Directory
       level: 85%
-    - name: Fusions360
+    - name: Autodesk Fusion 360
       level: 80%
     - name: VPN Setups (Site2Site, Client, OpenVPN, WireGuard)
       level: 85%
@@ -190,9 +190,7 @@ skills:
       level: 85%
     - name: Microsoft Exchange
       level: 65%
-    - name: Generative AI/Prompt Engineering
-      level: 70%
-    - name: Dev/Automation (bash, PowerShell, Python, JS)
+    - name: Automation and Dev (bash, PowerShell, Python, JS)
       level: 75%
-    - name: HTML5 & CSS
+    - name: Web Dev (HTML, CSS, JS)
       level: 50%
