@@ -16,7 +16,8 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: > 
-    Results-driven IT consultant with over 20 years of experience in network security, cloud infrastructure management, and full-stack development. Specializing in delivering cutting-edge automation, cybersecurity solutions, and cloud migrations, reducing costs by 30%. Proven expertise in utilizing AI to enhance business processes and optimizing technical infrastructures for a wide range of clients, from small businesses to large enterprises. Adept at leading complex projects and ensuring uptime, security, and scalability for mission-critical systems.
+
+    ### **Results-driven IT consultant with over 20 years of experience in network security, cloud infrastructure management, and full-stack development. Specializing in delivering cutting-edge automation, cybersecurity solutions, and cloud migrations, reducing costs by 30%. Proven expertise in utilizing AI to enhance business processes and optimizing technical infrastructures for a wide range of clients, from small businesses to large enterprises. Adept at leading complex projects and ensuring uptime, security, and scalability for mission-critical systems**
 
 experiences:
   title: Professional Experience
@@ -25,25 +26,26 @@ experiences:
       time: Aug 2020 - Present
       company: Subvertec, Winter Park, FL
       details: >
-          - Led comprehensive network security implementations for over 50 clients, improving security by 40% through advanced firewall and penetration testing solutions.
+        
+          - Led comprehensive network security implementations for over 50 clients, improving security by 40% through advanced firewall and penetration testing solutions
           
-          - Managed complex cloud migrations to Microsoft 365 and Azure, resulting in a 99% reduction in downtime and 30% cost savings.
+          - Managed complex cloud migrations to Microsoft 365 and Azure, resulting in a 99% reduction in downtime and 30% cost savings
           
-          - Planning and implementation of backups for various clients.
+          - Planning and implementation of backups for various clients
           
-          - Provide IT consulting services, focusing on optimizing clients' current hardware and software.
+          - Provide IT consulting services, focusing on optimizing clients' current hardware and software
           
-          - Developed and implemented AI-powered automation systems, saving clients $50,000 annually by automating manual tasks and increasing productivity by 25%.
+          - Developed and implemented AI-powered automation systems, saving clients $50,000 annually by automating manual tasks and increasing productivity by 25%
           
-          - Designed and deployed ESP32-based custom keylogging solutions and monitoring systems for advanced security analysis.
+          - Designed and deployed ESP32-based custom keylogging solutions and monitoring systems for advanced security analysis
           
-          - Recommend upgrades, migrations, security enhancements, cloud solutions, and software integration.
+          - Recommend upgrades, migrations, security enhancements, cloud solutions, and software integration
           
-          - Conduct network scans, vulnerability assessments, and physical/virtual infrastructure upgrades.
+          - Conduct network scans, vulnerability assessments, and physical/virtual infrastructure upgrades
           
-          - Maintain client infrastructure, perform server builds, decoms, and ensure backups.
+          - Maintain client infrastructure, perform server builds, decoms, and ensure backups
           
-          - Field phone calls from users and assist remotely or in-person as needed.
+          - Field phone calls from users and assist remotely or in-person as needed
           
           - Configure and deploy various network devices including wireless AP (Meraki, Unifi), switches(Meraki, Unifi) and firewalls(pfSense, Fortinet, Unifi)
 
@@ -51,63 +53,69 @@ experiences:
       time: Apr 2019 - Jun 2022
       company: Starnes Consulting, Orlando, FL
       details: >
-          - Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%.
+        
+          - Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%
           
-          - Conducted network audits and installed advanced security protocols, cutting downtime by 25% and increasing system stability across client networks.
+          - Conducted network audits and installed advanced security protocols, cutting downtime by 25% and increasing system stability across client networks
           
-          - Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows.
+          - Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows
           
-          - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms.
+          - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms
           
-          - Ensure backups are completed successfully and troubleshoot hardware issues.
+          - Ensure backups are completed successfully and troubleshoot hardware issues
           
-          - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed.
+          - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed
 
     - role: SOC Support Technician
       time: Mar 2020 - Feb 2021
       company: Atlantic.Net Inc., Orlando, FL
       details: >
-          - ## Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.
+        
+          - ***Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.***
 
-          - Provided frontline support to clients via phone and email, resolving issues related to firewall rule changes, system deployments, and upgrades.
+          - Provided frontline support to clients via phone and email, resolving issues related to firewall rule changes, system deployments, and upgrades
           
-          - Assisted clients in both physical and virtual system builds according to specific requirements.
+          - Assisted clients in both physical and virtual system builds according to specific requirements
           
     - role: Systems Engineer (Contract)
       time: Oct 2019 - Nov 2019
       company: ThreatLocker, Orlando, FL
       details: >
-          - Conducted external audits, network scans, and vulnerability assessments.
           
-          - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On.
+          - Conducted external audits, network scans, and vulnerability assessments
+          
+          - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On
 
     - role: Systems Engineer
       time: Aug 2016 - Apr 2019
       company: UnbreakableIT, Orlando, FL
       details: >
-          - Managed system administration tasks such as password resets, backups, and data recovery, ensuring smooth operational workflows for various clients.
           
-          - Administered environments using Azure AD, Office 365, and ConnectWise Automate, driving a 20% reduction in downtime.
+          - Managed system administration tasks such as password resets, backups, and data recovery, ensuring smooth operational workflows for various clients
           
-          - Led Exchange Server upgrades and migrations, improving client email system performance by 15%.
+          - Administered environments using Azure AD, Office 365, and ConnectWise Automate, driving a 20% reduction in downtime
+          
+          - Led Exchange Server upgrades and migrations, improving client email system performance by 15%
       
     - role: System Administrator
       time: Jan 2012 - Feb 2016
       company: Automotive Services Network, Winter Park, FL
       details: >
-          - Managed servers and network equipment, including Exchange, SCCM, and SQL Servers for optimized performance.
           
-          - Spearheaded Hyper-V virtualization projects, reducing hardware needs by 25% and improving system scalability.
+          - Managed servers and network equipment, including Exchange, SCCM, and SQL Servers for optimized performance
           
-          - Exchange, SCCM, and SQL servers.
+          - Spearheaded Hyper-V virtualization projects, reducing hardware needs by 25% and improving system scalability
           
-          - Performed virtualization using Hyper-V, managed backups with Backup Exec, and handled server migrations.
+          - Exchange, SCCM, and SQL servers
+          
+          - Performed virtualization using Hyper-V, managed backups with Backup Exec, and handled server migrations
 
     - role: Master Repair Tech
       time: Oct 2009 - Jan 2012
       company: Refresh Computers and Electronics, Longwood, FL
       details: >
-          - Configured, repaired, and upgraded PCs and laptops, with a focus on virus/spyware removal, data recovery, and hardware component replacement.
+          
+          - Configured, repaired, and upgraded PCs and laptops, with a focus on virus/spyware removal, data recovery, and hardware component replacement
           
           - Enhanced customer satisfaction through expert troubleshooting and OS reinstallation services
 
@@ -115,16 +123,17 @@ experiences:
       time: Feb 2006 - Dec 2007
       company: G.I. Broadband, LLC
       details: >
-          - Installed residential and commercial cable and internet services, diagnosing and repairing network connectivity issues.
           
-          - Installed coax and Cat-5 networking cables while providing top-tier customer service and troubleshooting for network and OS-related problems.
+          - Installed residential and commercial cable and internet services, diagnosing and repairing network connectivity issues
+          
+          - Installed coax and Cat-5 networking cables while providing top-tier customer service and troubleshooting for network and OS-related problems
 
   projects:
     title: Notable Projects
     intro: >
       Below are some of the key projects I've undertaken, showcasing my expertise in both technology and innovation. 
       These projects span from software development to hardware engineering, each highlighting my ability to deliver 
-      impactful solutions.
+      impactful solutions
 
   assignments:
     - title: Barbarian Charlemagne (In Progress)
@@ -137,10 +146,8 @@ experiences:
     - title: Regular Game (In Progress)
       tagline: >
         An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
-        skills and creativity in game development.
-      link: >
-        https://github.com/krongi/RegularGame
-    
+        skills and creativity in game development
+
     - title: Sunbiz Detail Scraper
       tagline: >
         A python based scraper for pulling data from sunbiz and placing into a sqlite database. 
@@ -165,13 +172,13 @@ experiences:
 
     - title: GVClick
       tagline: >
-          An android app based on tasker to automatically and repeatedly call someone using Google Voice. Set it and forget it
-          https://github.com/krongi/GVClick
+        An android app based on tasker to automatically and repeatedly call someone using Google Voice. Set it and forget it
+        https://github.com/krongi/GVClick
 
     - title: PolyTank Water Change System (In Progress)
       tagline: >
         An automated water change system for aquariums, designed to manage three tanks with minimal human intervention. 
-        This project combines my skills in hardware design and software control systems.
+        This project combines my skills in hardware design and software control systems
 
 skills:
   title: Skills & Proficiency
