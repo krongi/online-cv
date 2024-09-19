@@ -16,15 +16,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: > 
-    - Results-driven IT consultant with over 20 years of experience in network security, cloud infrastructure management, and full-stack development. Specializing in delivering cutting-edge automation, cybersecurity solutions, and cloud migrations, reducing costs by 30%. Proven expertise in utilizing AI to enhance business processes and optimizing technical infrastructures for a wide range of clients, from small businesses to large enterprises. Adept at leading complex projects and ensuring uptime, security, and scalability for mission-critical systems.
+    Results-driven IT consultant with over 20 years of experience in network security, cloud infrastructure management, and full-stack development. Specializing in delivering cutting-edge automation, cybersecurity solutions, and cloud migrations, reducing costs by 30%. Proven expertise in utilizing AI to enhance business processes and optimizing technical infrastructures for a wide range of clients, from small businesses to large enterprises. Adept at leading complex projects and ensuring uptime, security, and scalability for mission-critical systems.
 
 experiences:
   title: Professional Experience
   info:
-    - role: Systems Engineer
-      time: Aug 2020 - Present
-      company: Subvertec, Winter Park, FL
-      details: >
+  - role: Systems Engineer
+    time: Aug 2020 - Present
+    company: Subvertec, Winter Park, FL
+    details: >
         - Led comprehensive network security implementations for over 50 clients, improving security by 40% through advanced firewall and penetration testing solutions.
         - Managed complex cloud migrations to Microsoft 365 and Azure, resulting in a 99% reduction in downtime and 30% cost savings.
         - Planning and implementation of backups for various clients.
@@ -37,10 +37,10 @@ experiences:
         - Field phone calls from users and assist remotely or in-person as needed.
         - Configure and deploy various network devices including wireless AP (Meraki, Unifi), switches(Meraki, Unifi) and firewalls(pfSense, Fortinet, Unifi)
 
-    - role: Systems Engineer
-      time: Apr 2019 - Jun 2022
-      company: Starnes Consulting, Orlando, FL
-      details: >
+  - role: Systems Engineer
+    time: Apr 2019 - Jun 2022
+    company: Starnes Consulting, Orlando, FL
+    details: >
         - Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%.
         - Conducted network audits and installed advanced security protocols, cutting downtime by 25% and increasing system stability across client networks.
         - Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows.
@@ -48,49 +48,49 @@ experiences:
         - Ensure backups are completed successfully and troubleshoot hardware issues.
         - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed.
 
-    - role: SOC Support Technician
-      time: Mar 2020 - Feb 2021
-      company: Atlantic.Net Inc., Orlando, FL
-      details: >
+  - role: SOC Support Technician
+    time: Mar 2020 - Feb 2021
+    company: Atlantic.Net Inc., Orlando, FL
+    details: >
         - Provided frontline support to clients via phone and email, resolving issues related to firewall rule changes, system deployments, and upgrades.
         - Assisted clients in both physical and virtual system builds according to specific requirements.
         - Resolved Docker stack deployment issues, improving uptime and reducing errors by implementing system pruning and redeployment strategies.
         
-    - role: Systems Engineer (Contract)
-      time: Oct 2019 - Nov 2019
-      company: ThreatLocker, Orlando, FL
-      details: >
+  - role: Systems Engineer (Contract)
+    time: Oct 2019 - Nov 2019
+    company: ThreatLocker, Orlando, FL
+    details: >
         - Conducted external audits, network scans, and vulnerability assessments.
         - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On.
 
-    - role: Systems Engineer
-      time: Aug 2016 - Apr 2019
-      company: UnbreakableIT, Orlando, FL
-      details: >
+  - role: Systems Engineer
+    time: Aug 2016 - Apr 2019
+    company: UnbreakableIT, Orlando, FL
+    details: >
         - Managed system administration tasks such as password resets, backups, and data recovery, ensuring smooth operational workflows for various clients.
         - Administered environments using Azure AD, Office 365, and ConnectWise Automate, driving a 20% reduction in downtime.
         - Led Exchange Server upgrades and migrations, improving client email system performance by 15%.
     
-    - role: System Administrator
-      time: Jan 2012 - Feb 2016
-      company: Automotive Services Network, Winter Park, FL
-      details: >
+  - role: System Administrator
+    time: Jan 2012 - Feb 2016
+    company: Automotive Services Network, Winter Park, FL
+    details: >
         - Managed servers and network equipment, including Exchange, SCCM, and SQL Servers for optimized performance.
         - Spearheaded Hyper-V virtualization projects, reducing hardware needs by 25% and improving system scalability.
         - Exchange, SCCM, and SQL servers.
         - Performed virtualization using Hyper-V, managed backups with Backup Exec, and handled server migrations.
 
-    - role: Master Repair Tech
-      time: Oct 2009 - Jan 2012
-      company: Refresh Computers and Electronics, Longwood, FL
-      details: >
+  - role: Master Repair Tech
+    time: Oct 2009 - Jan 2012
+    company: Refresh Computers and Electronics, Longwood, FL
+    details: >
         - Configured, repaired, and upgraded PCs and laptops, with a focus on virus/spyware removal, data recovery, and hardware component replacement.
         - Enhanced customer satisfaction through expert troubleshooting and OS reinstallation services
 
-    - role: Cable Technician
-      time: Feb 2006 - Dec 2007
-      company: G.I. Broadband, LLC
-      details: >
+  - role: Cable Technician
+    time: Feb 2006 - Dec 2007
+    company: G.I. Broadband, LLC
+    details: >
         - Installed residential and commercial cable and internet services, diagnosing and repairing network connectivity issues.
         - Installed coax and Cat-5 networking cables while providing top-tier customer service and troubleshooting for network and OS-related problems.
 
