@@ -137,56 +137,29 @@ projects:
 
   assignments:
     
-    - title: 
-        Barbarian Charlemagne (In Progress)
-      tagline: >
-        An ESP32 wired and flashed to perform like a 'Bad USB'. When plugged in, it will begin doing keylogging as well as periodic screenshots. It will also store mouse coordinates 
-        when clicking the mouse and will diferentiate between a right and left click. It also hosts a webserver and creates an ad-hoc network to allow connection to the device for data exfiltration
-        or other uses. This was another project that already exists, but I don't want to pay for and I feel like I can whip something up comparable. Maybe not as stealthy, but functionally on the same
-        level
+    - title: Barbarian Charlemagne (In Progress)
+      tagline: Keylogging, mouse tracking, and screenshot capture with ad-hoc network for data exfiltration—DIY functionality without the obscene price tag
         
-    - title: 
-        Regular Game (In Progress)
-      tagline: >
-        An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
-        skills and creativity in game development
+    - title: Regular Game (In Progress)
+      tagline: "HTML5 game built with Phaser 3—showcasing my coding skills and creativity in solo game development."
 
-    - title: 
-        Sunbiz Detail Scraper
-      tagline: >
-        A python based scraper for pulling data from sunbiz and placing into a sqlite database. 
+    - title: Sunbiz Detail Scraper
+      tagline: A python based scraper for pulling data from sunbiz and placing into a sqlite database. 
 
-    - title: 
-        LoRa Launcher
-      tagline: >
-          A hardware device using ESP32 and LoRa to facilitate the launching of dangerous fireworks/rockets from a safe distance, 
-          several feet or miles from the staging and launching area
+    - title: LoRa Launcher
+      tagline: ESP32 and LoRa-powered device for safely launching fireworks and rockets from a controlled distance, whether feet or miles away
 
-    - title: 
-        Spaz Mouse (Completed)
-      tagline: >
-        A hardware solution designed to prevent computers from timing out. This project involved designing and building 
-        a physical device that mimics mouse movements. 
-        [Spaz Mouse](https://github.com/krongi/SpazMouse)
+    - title: Spaz Mouse (Completed)
+      tagline: Hardware solution to prevent computer timeouts by simulating continuous mouse movements.
 
-    - title: 
-        SMS Bomber (Completed)
-      tagline: >
-        A Tasker-based Android tool developed to send repeated SMS messages to a target number. This project was an exercise 
-        in automation and task management on mobile platforms. 
-        https://github.com/krongi/SMSBomber
+    - title: SMS Bomber (Completed)
+      tagline: Tasker-based Android tool for automating repeated SMS messages—an exercise in mobile automation and task management.
 
-    - title: 
-        GVClick
-      tagline: >
-        An android app based on tasker to automatically and repeatedly call someone using Google Voice. Set it and forget it
-        https://github.com/krongi/GVClick
+    - title: GVClick
+      tagline: Tasker-based Android app for automating repeated Google Voice calls—set it and forget it.
 
-    - title: 
-        PolyTank Water Change System (In Progress)
-      tagline: >
-        An automated water change system for aquariums, designed to manage three tanks with minimal human intervention. 
-        This project combines my skills in hardware design and software control systems
+    - title: PolyTank Water Change System (In Progress)
+      tagline: Automated aquarium water change system managing three tanks with minimal intervention—blending hardware design and software control expertise.
 
 skills:
   title: Skills & Proficiency
