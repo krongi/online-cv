@@ -7,10 +7,10 @@
       {{ projects.title }}
     </h2>
 
-    {% for title in projects.assignments %}
+    {% for assignment in projects.assignments %}
     <div class="item">
-      <h4 class="name">{{ assignments.title }}</h4>
-      <h5 class="tagline">{{ assignments.tagline }}</h5>
+      <h4 class="name">{{ assignment.title }}</h4>
+      <h5 class="tagline">{{ assignment.tagline }}</h5>
     </div><!--//item-->
     {% endfor %}
 
