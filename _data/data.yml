@@ -141,25 +141,25 @@ projects:
       tagline: Keylogging, mouse tracking, and screenshot capture with ad-hoc network for data exfiltration—DIY functionality without the obscene price tag
         
     - title: Regular Game (In Progress)
-      tagline: "HTML5 game built with Phaser 3—showcasing my coding skills and creativity in solo game development."
+      tagline: HTML5 game built with Phaser 3—showcasing my coding skills and creativity in solo game development
 
     - title: Sunbiz Detail Scraper
-      tagline: A python based scraper for pulling data from sunbiz and placing into a sqlite database. 
+      tagline: A python based scraper for pulling data from sunbiz and placing into a sqlite database 
 
     - title: LoRa Launcher
       tagline: ESP32 and LoRa-powered device for safely launching fireworks and rockets from a controlled distance, whether feet or miles away
 
     - title: Spaz Mouse (Completed)
-      tagline: Hardware solution to prevent computer timeouts by simulating continuous mouse movements.
+      tagline: Hardware solution to prevent computer timeouts by simulating continuous mouse movements
 
     - title: SMS Bomber (Completed)
-      tagline: Tasker-based Android tool for automating repeated SMS messages—an exercise in mobile automation and task management.
+      tagline: Tasker-based Android tool for automating repeated SMS messages—an exercise in mobile automation and task management
 
     - title: GVClick
-      tagline: Tasker-based Android app for automating repeated Google Voice calls—set it and forget it.
+      tagline: Tasker-based Android app for automating repeated Google Voice calls—set it and forget it
 
     - title: PolyTank Water Change System (In Progress)
-      tagline: Automated aquarium water change system managing three tanks with minimal intervention—blending hardware design and software control expertise.
+      tagline: Automated aquarium water change system managing three tanks with minimal intervention—blending hardware design and software control expertise
 
 skills:
   title: Skills & Proficiency
