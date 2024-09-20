@@ -138,7 +138,7 @@ projects:
   assignments:
     
     - title: 
-        **Barbarian Charlemagne (In Progress)**
+        Barbarian Charlemagne (In Progress)
       tagline: >
         An ESP32 wired and flashed to perform like a 'Bad USB'. When plugged in, it will begin doing keylogging as well as periodic screenshots. It will also store mouse coordinates 
         when clicking the mouse and will diferentiate between a right and left click. It also hosts a webserver and creates an ad-hoc network to allow connection to the device for data exfiltration
@@ -146,13 +146,13 @@ projects:
         level
         
     - title: 
-        **Regular Game (In Progress)**
+        Regular Game (In Progress)
       tagline: >
         An HTML5 game developed using the Phaser 3 framework. Currently a solo project, it's a demonstration of my coding 
         skills and creativity in game development
 
     - title: 
-        **Sunbiz Detail Scraper**
+        Sunbiz Detail Scraper
       tagline: >
         A python based scraper for pulling data from sunbiz and placing into a sqlite database. 
 
