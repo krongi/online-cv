@@ -1,7 +1,7 @@
 sidebar:
   position: right
   about: false
-  projects: true
+  # projects: true
   name: Mark Severson
   tagline: IT Consultant | Network Security Expert | AI & Automation Specialist
   email: mgseverson@subvertec.com
