@@ -1,7 +1,7 @@
 sidebar:
   position: right
   about: false
-  education: true
+  projects: true
   name: Mark Severson
   tagline: IT Consultant | Network Security Expert | AI & Automation Specialist
   email: mgseverson@subvertec.com
@@ -167,7 +167,7 @@ projects:
       tagline: >
         A hardware solution designed to prevent computers from timing out. This project involved designing and building 
         a physical device that mimics mouse movements. 
-        https://github.com/krongi/SpazMouse
+        [Spaz Mouse](https://github.com/krongi/SpazMouse)
 
     - title: 
         SMS Bomber (Completed)

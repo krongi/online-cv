@@ -26,6 +26,10 @@
   {% include language.html %}
   {% include interests.html %}
 
+  {% if sidebar.projects %}
+    {% include projects.html %}
+  {% endif %}
+
   {% if sidebar.about %}
     {% include about.html %}
   {% endif %}
