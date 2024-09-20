@@ -128,14 +128,15 @@ experiences:
           
           - Installed coax and Cat-5 networking cables while providing top-tier customer service and troubleshooting for network and OS-related problems
 
-  projects:
-    title: Notable Projects
-    intro: >
+projects:
+  title: Notable Projects
+  intro: >
       Below are some of the key projects I've undertaken, showcasing my expertise in both technology and innovation. 
       These projects span from software development to hardware engineering, each highlighting my ability to deliver 
       impactful solutions
 
   assignments:
+    
     - title: Barbarian Charlemagne (In Progress)
       tagline: >
         An ESP32 wired and flashed to perform like a 'Bad USB'. When plugged in, it will begin doing keylogging as well as periodic screenshots. It will also store mouse coordinates 
@@ -151,7 +152,6 @@ experiences:
     - title: Sunbiz Detail Scraper
       tagline: >
         A python based scraper for pulling data from sunbiz and placing into a sqlite database. 
-        https://github.com/krongi/SunbizDetailGrabber
 
     - title: LoRa Launcher
       tagline: >
