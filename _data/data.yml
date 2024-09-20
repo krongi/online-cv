@@ -27,7 +27,7 @@ experiences:
       company: Subvertec, Winter Park, FL
       details: >
         
-          - Led comprehensive network security implementations for over 50 clients, improving security by 40% through advanced firewall and penetration testing solutions
+          - ***Led comprehensive network security implementations for over 50 clients, reducing the attack surface through advanced firewall and penetration testing solutions***
           
           - Managed complex cloud migrations to Microsoft 365 and Azure, resulting in a 99% reduction in unplanned downtime and 30% cost savings
           
@@ -35,9 +35,9 @@ experiences:
           
           - Provide IT consulting services, focusing on optimizing clients' current hardware and software
           
-          - Developed and implemented AI-powered automation systems, saving clients $50,000 annually by automating manual tasks and increasing productivity by 25%
+          - ***Developed and implemented AI-powered automation systems, saving clients $50,000 or more annually by automating manual tasks and increasing productivity by 25%***
           
-          - Designed and deployed ESP32-based custom keylogging solutions and monitoring systems for advanced security analysis
+          - ***Designed and deployed ESP32-based custom keylogging solutions and monitoring systems for advanced security analysis***
           
           - Recommend upgrades, migrations, security enhancements, cloud solutions, and software integration
           
@@ -54,11 +54,11 @@ experiences:
       company: Starnes Consulting, Orlando, FL
       details: >
         
-          - Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%
+          - ***Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%***
           
-          - Conducted network audits and installed advanced security protocols, cutting downtime by 25% and increasing system stability across client networks
+          - Conducted network audits and implementing advanced security protocols, cutting downtime by 25% and increasing system stability across client networks
           
-          - Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows
+          - ***Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows***
           
           - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms
           
@@ -93,20 +93,20 @@ experiences:
           
           - Managed system administration tasks such as password resets, backups, and data recovery, ensuring smooth operational workflows for various clients
           
-          - Administered environments using Azure AD, Office 365, and ConnectWise Automate, driving a 20% reduction in downtime
+          - ***Administered environments using Azure AD, Office 365, and ConnectWise Automate, driving a 20% reduction in downtime***
           
           - Led Exchange Server upgrades and migrations, improving client email system performance by 15%
       
-    - role: System Administrator
+    - role: Systems Administrator
       time: Jan 2012 - Feb 2016
       company: Automotive Services Network, Winter Park, FL
       details: >
           
           - Managed servers and network equipment, including Exchange, SCCM, and SQL Servers for optimized performance
           
-          - Spearheaded Hyper-V virtualization projects, reducing hardware needs by 25% and improving system scalability
+          - ***Spearheaded Hyper-V virtualization projects, reducing hardware needs by 25% and improving system scalability***
           
-          - Exchange, SCCM, and SQL servers
+          - Tasked with ensuring uptime of major systems, including Exchange, SCCM, and SQL servers
           
           - Performed virtualization using Hyper-V, managed backups with Backup Exec, and handled server migrations
 
