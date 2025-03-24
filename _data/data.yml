@@ -153,7 +153,9 @@ projects:
       impactful solutions
 
   assignments:
-    
+    - title: DNS Analyzer (Working, Upgrading)
+      tagline: Analyze dnsmasq records for unique entries displayed in a directory like structure with whois records for each second level domain 
+
     - title: Barbarian Charlemagne (In Progress)
       tagline: Keylogging, mouse tracking, and screenshot capture with ad-hoc network for data exfiltration—DIY functionality without the obscene price tag
         
