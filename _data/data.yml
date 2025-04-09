@@ -2,9 +2,9 @@ sidebar:
   position: right
   about: false
   # projects: true
-  name: Mark Severson 
+  name: Trent Larsen
   tagline: IT Consultant | Network Security Expert | AI & Automation Specialist
-  email: mgseverson@subvertec.com
+  email: trent.larsen@subvertec.com
   phone: +1-(407) 479-8231
   avatar: profile.png
   website: 'https://subvertec.com'
@@ -94,14 +94,14 @@ experiences:
               
           - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed
           
-    - role: Systems Engineer (Contract)
-      time: Oct 2019 - Nov 2019
-      company: ThreatLocker, Orlando, FL
-      details: >
+    # - role: Systems Engineer (Contract)
+    #   time: Oct 2019 - Nov 2019
+    #   company: ThreatLocker, Orlando, FL
+    #   details: >
           
-          - Conducted external audits, network scans, and vulnerability assessments
+    #       - Conducted external audits, network scans, and vulnerability assessments
           
-          - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On
+    #       - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On
 
     - role: Systems Engineer
       time: Aug 2016 - Apr 2019
@@ -183,7 +183,7 @@ projects:
 skills:
   title: Skills & Proficiency
   toolset:
-    - name: Generative AI/Prompt Engineering
+    - name: Containerization (Docker, lxc, etc)
       level: 70%
     - name: Firewall Configuration (pfSense, Fortinet, Unifi)
       level: 80%
