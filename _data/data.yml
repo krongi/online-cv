@@ -8,7 +8,7 @@ sidebar:
   phone: +1-(407) 479-8231
   avatar: new_subvertec_logo.jpg
   website: 'https://subvertec.com'
-  linkedin: 'https://linkedin.com/in/larsenorlando'
+  # linkedin: 'https://linkedin.com/in/larsenorlando'
   github: 'https://github.com/krongi'
   telegram: '@Th3Alch3m1st'
   codewars: 'https://www.codewars.com/users/krongi'
@@ -78,32 +78,6 @@ experiences:
           - Assisted clients in both physical and virtual system builds according to specific requirements
 
     - role: Systems Engineer
-      time: Apr 2019 - Jun 2020
-      company: Starnes Consulting, Orlando, FL
-      details: >
-         
-          - ***Led server migrations to virtualized environments such as Proxmox and VMware, improving server efficiency by 35% and reducing hardware costs by 20%***
-              
-          - Conducted network audits and implementing advanced security protocols, cutting downtime by 25% and increasing system stability across client networks
-              
-          - ***Deployed custom AI models to automate data processing, cutting time-to-insight by 20% and streamlining data analysis workflows***
-              
-          - Plan, deploy, and maintain IT infrastructure for various clients, including server migrations and decoms
-              
-          - Ensure backups are completed successfully and troubleshoot hardware issues
-              
-          - Provide remote and on-site support to users, replacing and reconfiguring failed equipment as needed
-          
-    # - role: Systems Engineer (Contract)
-    #   time: Oct 2019 - Nov 2019
-    #   company: ThreatLocker, Orlando, FL
-    #   details: >
-          
-    #       - Conducted external audits, network scans, and vulnerability assessments
-          
-    #       - Provided recommendations for physical and virtual infrastructure upgrades, including SQL Server Always On
-
-    - role: Systems Engineer
       time: Aug 2016 - Apr 2019
       company: UnbreakableIT, Orlando, FL
       details: >
@@ -153,6 +127,10 @@ projects:
       impactful solutions
 
   assignments:
+  
+    - title: Scamurbater
+      tagline: Small python application that generates images of Apple gift cards to use on scammers
+      
     - title: DNS Analyzer (Working, Upgrading)
       tagline: Analyze dnsmasq records for unique entries displayed in a directory like structure with whois records for each second level domain 
 
